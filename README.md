@@ -1,5 +1,5 @@
-# static-idevent
-Static Project of IDevent
+# front-study
+Front Study Project of PeterZhang
 
 - [Vue官网](http://vuejs.org/)
 - [iview](https://www.iviewui.com)
@@ -8,7 +8,7 @@ Static Project of IDevent
 
 ## 目录结构
 <pre>
-    STATICE-IDEVENT/
+    front-study/
     |-- build               存放webpack的配置
     |-- views               存放页面
         |-- demo
@@ -36,10 +36,5 @@ Static Project of IDevent
 - 文件，目录均以小写开头，驼峰式(如inputNumber)
 - 组件的import export 均以v开头，驼峰式(如vInputNumber)
 
-##小技巧
-- 引入模版
-${require("html!../layout/header.html")}
-- 引入图片
-<img src=${require("../assets/images/bg.png")} />
-
 # front-study
+
